@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd80605f-84f6-41c0-adbf-89dde4afa28a" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InMemoryModel/IModelChanger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InMemoryModel/IModelChangerObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InMemoryModel/ModelStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModelElements/Angle3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModelElements/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModelElements/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModelElements/Flash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModelElements/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModelElements/Poligon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModelElements/PoligonalModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModelElements/Scene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModelElements/Texture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dd80605f-84f6-41c0-adbf-89dde4afa28a" name="Changes" comment="Second commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693742581132</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit">
+      <created>1693753549386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693753549386</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
 </project>
